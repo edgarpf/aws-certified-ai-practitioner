@@ -73,3 +73,7 @@
 * SageMaker JumpStart: ML model hub & pre-built ML solutions
 * SageMaker Canvas: no-code interface for SageMaker
 * MLFlow on SageMaker: use MLFlow tracking servers on AWS
+* AWS Macie - Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.
+* Amazon Inspector - Automated Security Assessments. Only for EC2 instances, Container Images & Lambda functions
+* AWS Artifact -  Portal that provides customers with on-demand access to AWS compliance documentation and AWS agreements.
+* 
